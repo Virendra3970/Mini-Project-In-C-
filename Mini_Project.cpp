@@ -4,7 +4,7 @@
 * b. Display manager having highest salary
 *Author: Virendra Kumar
 *Date:- 28-Dec-2023
- 
+*/
 #include<iostream>
 #include<cstring>
 using namespace std;
